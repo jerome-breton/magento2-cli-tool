@@ -14,3 +14,9 @@ This should work on any Linux and maybe in Windows under Cygwin / MingW / Git-Ba
 2. Add an alias to your Linux environment
 
     alias mage="/bin/bash /path/to/file/magento2-cli-tool.sh"
+
+## Known bugs
+- This will obviously not work if your project is deployed in ```/```... But who cares ?
+
+## Contribution, Features, Problems, Questions ?
+Feel free to oepn issue, fork the project, make a pull request...
