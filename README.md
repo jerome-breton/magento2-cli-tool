@@ -10,7 +10,7 @@ If you are in a Magento 2 project, this will call the Magento 2 binary
 This should work on any Linux and maybe in Windows under Cygwin / MingW / Git-Bash
 
 ### Installation
-1. Checkout this project or download the ```magento2-cli-tool.sh``` file anywhere
+1. Checkout this project or download the [```magento2-cli-tool.sh```](https://github.com/jerome-breton/magento2-cli-tool/raw/master/magento2-cli-tool.sh) file anywhere
 2. Add an alias to your Linux environment
 ```
 alias mage="/bin/bash /path/to/file/magento2-cli-tool.sh"
