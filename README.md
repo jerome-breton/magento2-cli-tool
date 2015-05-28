@@ -18,7 +18,7 @@ alias mage="/bin/bash /path/to/file/magento2-cli-tool.sh"
 
 ### Known bugs
 - This will not work if your project is deployed in ```/```... But who cares ?
-- Maybe an infinite loop if ```cd ..`` do not work and can not bring you up to ```/``` ?
+- Maybe an infinite loop if ```cd ..``` do not work and can not bring you up to ```/``` ?
 
 ### Contribution, Features, Problems, Questions ?
 Feel free to oepn issue, fork the project, make a pull request...
